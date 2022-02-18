@@ -6,8 +6,8 @@
        <parameter name="PivotEnergy" scale="1e6" value="0.3" min="0.01" max="1000.0" free="0"/>
     </spectrum>
     <spatialModel type="PointSource">
-      <parameter name="RA" scale="1.0" value="85.76" min="-360" max="360" free="0"/>
-      <parameter name="DEC" scale="1.0" value="24.3209" min="-90" max="90" free="0"/>
+      <parameter name="RA" scale="1.0" value="83.2222" min="-360" max="360" free="0"/>
+      <parameter name="DEC" scale="1.0" value="22.5328" min="-90" max="90" free="0"/>
     </spatialModel>
   </source>
   <source name="Crab2" type="PointSource">
@@ -17,8 +17,8 @@
        <parameter name="PivotEnergy" scale="1e6" value="0.3" min="0.01" max="1000.0" free="0"/>
     </spectrum>
     <spatialModel type="PointSource">
-      <parameter name="RA" scale="1.0" value="84.7301" min="-360" max="360" free="0"/>
-      <parameter name="DEC" scale="1.0" value="21.8388" min="-90" max="90" free="0"/>
+      <parameter name="RA" scale="1.0" value="85.2239" min="-360" max="360" free="0"/>
+      <parameter name="DEC" scale="1.0" value="22.2497" min="-90" max="90" free="0"/>
     </spatialModel>
   </source>
   <source name="CTABackgroundModel" type="CTAIrfBackground" instrument="CTA">
